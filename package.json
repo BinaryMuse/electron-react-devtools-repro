@@ -10,7 +10,7 @@
   "author": "Michelle Tilley <michelle@michelletilley.net>",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^1.4.15",
+    "electron": "^9.1.0",
     "electron-devtools-installer": "^2.1.0"
   },
   "dependencies": {
